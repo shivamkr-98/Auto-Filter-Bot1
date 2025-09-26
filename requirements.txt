@@ -2,7 +2,7 @@ git+https://github.com/KurimuzonAkuma/pyrogram
 tgcrypto
 motor
 marshmallow
-umongo
+umongo==2.3.0
 pymongo
 pytz
 git+https://github.com/Joelkb/cinemagoer
