@@ -1,9 +1,9 @@
 git+https://github.com/KurimuzonAkuma/pyrogram
 tgcrypto
 motor>=3.1.1
-marshmallow
-umongo==2.3.0
-pymongo>=3.11.4
+marshmallow==3.19.0
+umongo>=3.0.0
+pymongo>=4.3.3
 pytz
 git+https://github.com/Joelkb/cinemagoer
 shortzy
@@ -13,3 +13,4 @@ telegraph
 speedtest-cli
 fuzzywuzzy
 python-Levenshtein
+pyrogram==1.4.16
