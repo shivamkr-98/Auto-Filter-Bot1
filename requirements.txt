@@ -3,7 +3,7 @@ tgcrypto
 motor==2.5.1
 marshmallow
 umongo==2.3.0
-pymongo=3.11.4
+pymongo==3.11.4
 pytz
 git+https://github.com/Joelkb/cinemagoer
 shortzy
