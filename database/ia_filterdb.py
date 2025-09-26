@@ -11,7 +11,7 @@ from info import DATABASE_URL, DATABASE_NAME, COLLECTION_NAME, MAX_BTN
 
 client = AsyncIOMotorClient(DATABASE_URL)
 db = client[DATABASE_NAME]
-instance = Instance.from_db(db)
+instance = Instance.from_motor(db)
 
 @instance.register
 class Media(Document):
