@@ -1,6 +1,6 @@
 git+https://github.com/KurimuzonAkuma/pyrogram
 tgcrypto
-motor==2.5.1
+motor>=3.1.1
 marshmallow
 umongo==2.3.0
 pymongo>=3.11.4
